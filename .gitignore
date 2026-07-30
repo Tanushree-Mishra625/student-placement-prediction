@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
