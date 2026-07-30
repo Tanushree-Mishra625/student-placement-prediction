@@ -9,6 +9,10 @@ The project uses an **Artificial Neural Network (ANN)** model trained on histori
 The application provides placement prediction along with confidence score, career improvement suggestions, and a downloadable PDF prediction report.
 
 ---
+## 🌐 Live Demo
+
+[AI Student Placement Predictor](https://student-placement-prediction-cqtqt2ve7qtxchxkwnpmk9.streamlit.app/)
+
 
 # 🚀 Features
 
