@@ -1,19 +1,19 @@
 streamlit==1.60.0
 
-tensorflow==2.17.0
+tensorflow==2.17.1
 keras==3.5.0
 
 numpy==1.26.4
-pandas==3.0.5
+pandas==2.2.3
 
-scikit-learn==1.9.0
-scipy==1.17.1
+scikit-learn==1.5.2
+scipy==1.14.1
 
-matplotlib==3.11.1
-plotly==6.9.0
+matplotlib==3.9.2
+plotly==5.24.1
 
-reportlab==5.0.0
+reportlab==4.2.5
 
-joblib==1.5.3
+joblib==1.4.2
 
-pillow==12.3.0
+pillow==10.4.0
